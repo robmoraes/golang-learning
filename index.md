@@ -1,4 +1,4 @@
-#Curso de Golang
+# Curso de Golang
 [Playlist do curso no Youtube] (https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
 
 Ellen Korbes
@@ -6,7 +6,7 @@ Ellen Korbes
 [site][http://ellenkorbes.com]
 [github](https://github.com/ellenkorbes)
 
-##Cap. 1 - Visão Geral
+## Cap. 1 - Visão Geral
 1. Bem-vindo!
 2. Por que Go?
 3. Sucesso
@@ -14,7 +14,7 @@ Ellen Korbes
 5. Como esse curso funciona
 6. Exercícios
 
-##Cap. 2 - Variáveis, Valores & Tipos 
+## Cap. 2 - Variáveis, Valores & Tipos 
 1. Go Playground
 2. Hello world!
 3. Operador curto de declaração (marmota)
@@ -25,7 +25,7 @@ Ellen Korbes
 8. Criando seu próprio tipo
 9. Conversão, não coerção
 
-##Cap. 3 - Exercícios: Nível #1 
+## Cap. 3 - Exercícios: Nível #1 
 1. https://play.golang.org/p/gi6yV2bHWLP
 2. https://play.golang.org/p/CwQ7kcJ_Iyr
 3. https://play.golang.org/p/NpNtPp8hHyi
@@ -33,21 +33,21 @@ Ellen Korbes
 5. https://play.golang.org/p/LDjC-qyccTV
 6. https://goo.gl/forms/s9y91iVSPvA4iahj1 (link indisponível)
 
-##Cap. 4 - Fundamentos da Programação
+## Cap. 4 - Fundamentos da Programação
 1. Tipo booleano
 2. Como os computadores funcionam
 3. Tipos numéricos
 4. Overflow
 5. Tipo string (cadeias de caracteres)
-  * https://play.golang.org/p/cFYmiweqoP9
+https://play.golang.org/p/cFYmiweqoP9
 6. Sistemas numéricos
-  * https://play.golang.org/p/smjuA0RhjUK
+https://play.golang.org/p/smjuA0RhjUK
 7. Constantes
 8. iota
-  * https://play.golang.org/p/YnZCFTcpvYC
+https://play.golang.org/p/YnZCFTcpvYC
 9. Deslocamento de bits
-  * https://play.golang.org/p/ublpoDFp-xj
-  * https://play.golang.org/p/_DDJcguaJEi
+https://play.golang.org/p/ublpoDFp-xj
+https://play.golang.org/p/_DDJcguaJEi
 
 ##Cap. 5 - Exercícios: Nível #2
 1. https://play.golang.org/p/kqQUw1QxwHZ
@@ -57,7 +57,7 @@ Ellen Korbes
 5. https://play.golang.org/p/OpsO1BZ5fUI
 6. https://play.golang.org/p/eTHW6dz0sRg
 
-##Cap. 6 - Fluxo de Controle
+## Cap. 6 - Fluxo de Controle
 1. Entendendo fluxo de controle
 2. Loops: inicialização, condição, pós
 3. Loops: nested loop (repetição hierárquica)
