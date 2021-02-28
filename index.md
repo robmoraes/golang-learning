@@ -39,15 +39,22 @@ Ellen Korbes
 3. Tipos numéricos
 4. Overflow
 5. Tipo string (cadeias de caracteres)
-https://play.golang.org/p/cFYmiweqoP9
+
+- https://play.golang.org/p/cFYmiweqoP9
+
 6. Sistemas numéricos
-https://play.golang.org/p/smjuA0RhjUK
+
+- https://play.golang.org/p/smjuA0RhjUK
+
 7. Constantes
 8. iota
-https://play.golang.org/p/YnZCFTcpvYC
+
+- https://play.golang.org/p/YnZCFTcpvYC
+
 9. Deslocamento de bits
-https://play.golang.org/p/ublpoDFp-xj
-https://play.golang.org/p/_DDJcguaJEi
+
+- https://play.golang.org/p/ublpoDFp-xj
+- https://play.golang.org/p/_DDJcguaJEi
 
 ##Cap. 5 - Exercícios: Nível #2
 1. https://play.golang.org/p/kqQUw1QxwHZ
