@@ -58,6 +58,28 @@ Ellen Korbes
 2. Loops: inicialização, condição, pós
 3. Loops: nested loop (repetição hierárquica)
 4. Loops: a declaração for
+5. Loops: break & continue
+6. Loops: utilizando ascii : [Desafio surpresa!](https://play.golang.org/p/kokHQ0sS-zE)
+7. Condicionais: a declaração if : [playground] (https://play.golang.org/p/iT-auq2JxA0)
+8. Condicionais: if, else if, else
+9. Condicionais: a declaração switch : [playground](https://play.golang.org/p/z7cdOMgvFlI)
+10. Condicionais: a declaração switch pt. 2 & documentação : [playground](https://play.golang.org/p/1xTBQKRVb5V)
+11. Operadores lógicos condicionais
+
+## Cap. 7 - Exercícios: Nível #3
+1. https://play.golang.org/p/2owMVaqMIcg
+2. https://play.golang.org/p/SVG4dojxsgl
+3. https://play.golang.org/p/IAS-sdgru7V
+4. https://play.golang.org/p/ubrWR6sZG9d
+5. https://play.golang.org/p/Xel0PvW_X07
+6. https://play.golang.org/p/8vxhBCbEfwr
+7. https://play.golang.org/p/VaM4dh1Do-L
+8. https://play.golang.org/p/XrU_YzhTvjy
+9. https://play.golang.org/p/uNF8JtWB1aB
+10. https://play.golang.org/p/NFAnIHqyFPT
+
+## Cap. 8 - Agrupamento de Dados
+1. Array
   
 ---- 
 
