@@ -69,6 +69,4 @@ de identificadores (identifiers) func, package, var, etc...
 Tipos de dados básicos: int, string, bool   
 Tipos de dados compostos: slice, array, struct, map
 
-Tem um inseto (bug) no sistema - mariposa (moth) encontrado no meio hardware causando pane
-
 Constantes sem tipo declarado, serão tipadas no primeiro uso.
