@@ -1,14 +1,11 @@
 Curso de Golang
-https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
 
-              |- https://twitter.com/ellenkorbes
-Ellen Korbes -|- http://ellenkorbes.com/
-              |- https://github.com/ellenkorbes
+https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
 
-Links interessantes no Cap. 1 - Visão Geral - 4
-
-Cesar Gimenes - grupo de estudos golang
-https://www.youtube.com/channel/UCxRoRvJi7NbC2boKAV70t_g
+Ellen Korbes
+https://twitter.com/ellenkorbes
+http://ellenkorbes.com
+https://github.com/ellenkorbes
 
 Cap. 1 - Visão Geral
   1. Bem-vindo!
