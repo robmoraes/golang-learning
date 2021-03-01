@@ -104,129 +104,130 @@ Curso ministrado por Ellen Korbes
 10. https://play.golang.org/p/NwP3QlT28Dv
 
 ## Cap. 10 - Structs
-1. Struct (4:05)                       << == CONTINUE 
-2. Structs embutidos (03:30)
-3. Lendo a documentação (7:39)
-4. Structs anônimos (1:35)
+1. Struct (4:05) : [exemplo](https://play.golang.org/p/640hhx9wfRs)
+2. Structs embutidos (3:30) : [exemplo](https://play.golang.org/p/2WhLaDoNwOO)
+3. Lendo a documentação (7:39) : [ref](https://golang.org/ref/spec#Struct_types)
+4. Structs anônimos (1:35) : [examplo](https://play.golang.org/p/6F4E3avrrZk)
 
 ## Cap. 11 - Exercícios: Nível #5
 [Exercícios](https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#11--exerc%C3%ADcios-ninja-n%C3%ADvel-5)
-1. 
-2. 
-3. 
-4. 
+1. (7:05) https://play.golang.org/p/ZCU-jaWHq2e
+2. (8:52) https://play.golang.org/p/8g78vwfEo5y
+3. (6:13) https://play.golang.org/p/xkt6WSf85ss
+4. (5:51) https://play.golang.org/p/-p28QmhBBTI
 
 ## Cap. 12 - Funções
-1. Sintaxe
-2. Desenrolando (enumerando) uma slice
-3. Defer
-4. Métodos
-5. Interfaces & polimorfismo
-6. Funções anônimas
-7. Func como expressão
-8. Retornando uma função
-9. Callback
-10. Closure
-11. Recursividade
+1. (20:23) Sintaxe <================= C O N T I N U A =================!!!
+2. (06:08) Desenrolando (enumerando) uma slice
+3. (08:20) Defer
+4. (05:26) Métodos
+5. (21:47) Interfaces & polimorfismo
+6. (04:04) Funções anônimas
+7. (03:06) Func como expressão
+8. (05:44) Retornando uma função
+9. (04:10) Callback
+10. (04:50) Closure
+11. (14:36) Recursividade
 
 ## Cap. 13 - Exercícios: Nível #6
 [Exercícios](https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#13--exerc%C3%ADcios-ninja-n%C3%ADvel-6)
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
+1. (1:45)
+2. (5:49)
+3. (1:07)
+4. (5:44)
+5. (12:31)
+6. (0:56)
+7. (1:10)
+8. (1:44)
+9. (3:01)
+10. (3:04)
+11. (3:25)
 
 ## Cap. 14 - Ponteiros
-1. O que são ponteiros?
-2. Quando usar ponteiros
+1. O que são ponteiros? (6:23)
+2. Quando usar ponteiros (6:52)
 
 ## Cap. 15 - Exercícios: Nível 7
 [Exercícios](https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#15--exerc%C3%ADcios-ninja-n%C3%ADvel-7)
-1. 
-2. 
+1. (1:02)
+2. (5:37)
 
 ## Cap. 16 - Aplicações
-1. Documentação JSON
-2. JSON marshal (ordenação)
-3. JSON unmarshal (desordenação)
-4. A interface Writer
-5. O pacote sort
-6. Customizando o sort
-7. Bcrypt
+1. Documentação JSON (9:45)
+2. JSON marshal (ordenação) (10:57)
+3. JSON unmarshal (desordenação) (15:31)
+4. A interface Writer (13:44)
+5. O pacote sort (12:06)
+6. Customizando o sort (20:56)
+7. Bcrypt (20:09)
 
 ## Cap. 17 - Exercícios: Nível #8
 [Exercícios](https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#17--exerc%C3%ADcios-ninja-n%C3%ADvel-8)
 
 ## Cap. 18 - Concorrência
-1. Concorrência vs. paralelismo
-2. Goroutines & WaitGroups
-3. Discussão: Condição de corrida
-4. Na prática: Condição de corrida
-5. Mutex
-6. Atomic
+1. Concorrência vs. paralelismo (7:39)
+2. Goroutines & WaitGroups (13:55)
+3. Discussão: Condição de corrida (9:22)
+4. Na prática: Condição de corrida (9:42)
+5. Mutex (3:38)
+6. Atomic (5:04)
 
 ## Cap. 19 - Ambiente de Desenvolvimento
-1. O terminal
-2. Go Workspace
-3. IDEs
-4. Comandos Go
-5. Repositórios no GitHub
-6. Explorando o GitHub
-7. Compilação cruzada
-8. Pacotes
+1. O terminal (12:31)
+2. Go Workspace (6:59)
+3. IDEs (7:10)
+4. Comandos Go (6:59)
+5. Repositórios no GitHub (16:45)
+6. Explorando o GitHub (4:45)
+7. Compilação cruzada (6:55)
+8. Pacotes (11:03)
 
 ## Cap. 20 - Exercícios: Nível #9
 [Exercícios](https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#20--exerc%C3%ADcios-ninja-n%C3%ADvel-9)
 
 ## Cap. 21 - Canais
-1. Entendendo canais
-2. Canais direcionais & Utilizando canais
-3. Range e close
-4. Select
-5. A expressão comma ok
-6. Convergência
-7. Divergência
-8. Context
+1. Entendendo canais (7:12)
+2. Canais direcionais & Utilizando canais (9:43)
+3. Range e close (6:20)
+4. Select (19:27)
+5. A expressão comma ok (7:52)
+6. Convergência (20:53)
+7. Divergência (18:34)
+8. Context (16:52)
 
 ## Cap. 22 - Exercícios: Nível #10
 [Exercícios](https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#22--exerc%C3%ADcios-ninja-n%C3%ADvel-10)
 
 ## Cap. 23 - Tratamento de Erros
-1. Entendendo erros
-2. Verificando erros
-3. Print & Log
-4. Recover
-5. Erros com informações adicionais
+1. Entendendo erros (8:33)
+2. Verificando erros (10:32)
+3. Print & Log (18:15)
+4. Recover (5:42)
+5. Erros com informações adicionais (14:06)
 
 ## Cap. 24 - Exercícios: Nível #11
 [Exercícios](https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#24--exerc%C3%ADcios-ninja-n%C3%ADvel-11)
 
 ## Cap. 25 - Documentação
-1. Introdução
-2. go doc
-3. godoc
-4. godoc.org
-5. Escrevendo Documentação
+1. Introdução (2:47)
+2. go doc (4:02)
+3. godoc (3:35)
+4. godoc.org (8:00)
+5. Escrevendo Documentação (15:06)
 
 ## Cap. 26 - Exercícios: Nível 12
 [Exercícios](https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#26--exerc%C3%ADcios-ninja-n%C3%ADvel-12)
 
 ## Cap. 27 - Testes & Benchmarks
-1. Introdução
-2. Testes em tabela
-3. Testes como exemplos
-4. go fmt, govet, golint
-5. Benchmarks
-6. Cobertura
+1. Introdução (13:50)
+2. Testes em tabela (8:06)
+3. Testes como exemplos (9:28)
+4. go fmt, govet, golint (4:10)
+5. Benchmarks (9:08)
+6. Cobertura (2:42)
 
-## Capítulo Final - Cabô! E agora?
+## Capítulo Final
+- Cabô! E agora? (1:30:30)
 
 
 ---- 
