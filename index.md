@@ -57,7 +57,7 @@ Curso ministrado por Ellen Korbes
 4. Loops: a declaração for
 5. Loops: break & continue
 6. Loops: utilizando ascii : [Desafio surpresa!](https://play.golang.org/p/kokHQ0sS-zE)
-7. Condicionais: a declaração if : [exemplo] (https://play.golang.org/p/iT-auq2JxA0)
+7. Condicionais: a declaração if : [exemplo](https://play.golang.org/p/iT-auq2JxA0)
 8. Condicionais: if, else if, else
 9. Condicionais: a declaração switch : [exemplo](https://play.golang.org/p/z7cdOMgvFlI)
 10. Condicionais: a declaração switch pt. 2 & documentação : [exemplo](https://play.golang.org/p/1xTBQKRVb5V)
