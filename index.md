@@ -85,8 +85,23 @@ Curso ministrado por Ellen Korbes
 7. Slice: slice multi-dimensional : [exemplo](https://play.golang.org/p/XJFpdui7tWX)
 8. Slice: a surpresa do array subjacente : [exemplo](https://play.golang.org/p/aYCzr2yi0Qv)
 9. Maps: introdução : [exemplo](https://play.golang.org/p/1aiI8CbCny6)
-10. Maps: range & deletando
-  
+10. Maps: range & deletando: [exemplos](https://play.golang.org/p/Q-iHBA8_1cx)
+
+## Cap. 9 - Exercícios: Nível #4
+[Exercícios](https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#09--exerc%C3%ADcios-ninja-n%C3%ADvel-4)
+1. https://play.golang.org/p/-ecOePI5UnY
+2. https://play.golang.org/p/x2XQ3tVrWFH
+3. https://play.golang.org/p/1ht9nEOe-3N
+4. https://play.golang.org/p/xkobTuWSW4w
+5. https://play.golang.org/p/Npmhq565v7k
+6. https://play.golang.org/p/yCwKvv9CyHE
+7. https://play.golang.org/p/nsrNpRbbxN0
+8. https://play.golang.org/p/64ER5WpM-8q
+9. https://play.golang.org/p/T7Rzs8ce4Wj
+10. https://play.golang.org/p/NwP3QlT28Dv
+
+## Cap. 10 - Structs
+
 ---- 
 
 NOTES
