@@ -23,7 +23,8 @@ Curso ministrado por Ellen Korbes
 8. Criando seu próprio tipo
 9. Conversão, não coerção
 
-## Cap. 3 - Exercícios: Nível #1 
+## Cap. 3 - Exercícios: Nível #1
+[Exercícios](https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#03--exerc%C3%ADcios-ninja-n%C3%ADvel-1)
 1. https://play.golang.org/p/gi6yV2bHWLP
 2. https://play.golang.org/p/CwQ7kcJ_Iyr
 3. https://play.golang.org/p/NpNtPp8hHyi
@@ -43,6 +44,7 @@ Curso ministrado por Ellen Korbes
 9. Deslocamento de bits : [exemplo-1](https://play.golang.org/p/ublpoDFp-xj), [exemplo-2](https://play.golang.org/p/_DDJcguaJEi)
 
 ## Cap. 5 - Exercícios: Nível #2
+[Exercícios](https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#05--exerc%C3%ADcios-ninja-n%C3%ADvel-2)
 1. https://play.golang.org/p/kqQUw1QxwHZ
 2. https://play.golang.org/p/ug5w-SOrzv1
 3. https://play.golang.org/p/9giUWj7ufRl
@@ -64,6 +66,7 @@ Curso ministrado por Ellen Korbes
 11. Operadores lógicos condicionais
 
 ## Cap. 7 - Exercícios: Nível #3
+[Exercícios](https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#07--exerc%C3%ADcios-ninja-n%C3%ADvel-3)
 1. https://play.golang.org/p/2owMVaqMIcg
 2. https://play.golang.org/p/SVG4dojxsgl
 3. https://play.golang.org/p/IAS-sdgru7V
