@@ -1,10 +1,8 @@
 # Curso de Golang
 [Playlist do curso no Youtube](https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
 
-Curso ministrado por Ellen Korbes
-[site](http://ellenkorbes.com)  
-[twitter](https://twitter.com/ellenkorbes)  
-[github](https://github.com/ellenkorbes)
+Curso ministrado por Ellen Korbes  
+[site](http://ellenkorbes.com) | [twitter](https://twitter.com/ellenkorbes) | [github](https://github.com/ellenkorbes)
 
 ## Cap. 1 - Visão Geral
 1. Bem-vindo!
@@ -32,6 +30,11 @@ Curso ministrado por Ellen Korbes
 4. https://play.golang.org/p/zez178DMBAG
 5. https://play.golang.org/p/LDjC-qyccTV
 6. https://goo.gl/forms/s9y91iVSPvA4iahj1
+
+## Cap.4 - Fundamentos da Programação
+1. Tipo booleano
+2. Como os computadores funcionam
+3. Tipos numéricos
 
 ## Cap. 4 - Fundamentos da Programação
 1. Tipo booleano
