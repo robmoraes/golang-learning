@@ -6,7 +6,7 @@ Passos para instalação e configuração do gerenciador de multiplas versões d
 
 Primeiro instalar o golang para que o gvm funcione
 
-```cnosole
+```console
 $ sudo apt-get install golang
 ```
 
@@ -16,18 +16,18 @@ $ sudo apt-get install golang
 
 GVM Install
 
-```
+```console
 bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
 ```
 Instalação de versão do Go pelo GVM
 
-```
+```console
 gvm install go1.4
 gvm use go1.4 [--default]
 ```
 
 Listando versões instaladas
 
-```
+```console
 gvm list
 ```

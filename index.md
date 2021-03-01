@@ -1,9 +1,9 @@
 # Curso de Golang
-[Playlist do curso no Youtube] (https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
+[Playlist do curso no Youtube](https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
 
-Ellen Korbes
-[twitter](https://twitter.com/ellenkorbes)
-[site][http://ellenkorbes.com]
+Curso ministrado por Ellen Korbes
+[site](http://ellenkorbes.com)  
+[twitter](https://twitter.com/ellenkorbes)  
 [github](https://github.com/ellenkorbes)
 
 ## Cap. 1 - Visão Geral
@@ -31,19 +31,19 @@ Ellen Korbes
 3. https://play.golang.org/p/NpNtPp8hHyi
 4. https://play.golang.org/p/zez178DMBAG
 5. https://play.golang.org/p/LDjC-qyccTV
-6. https://goo.gl/forms/s9y91iVSPvA4iahj1 (link indisponível)
+6. https://goo.gl/forms/s9y91iVSPvA4iahj1
 
 ## Cap. 4 - Fundamentos da Programação
 1. Tipo booleano
 2. Como os computadores funcionam
 3. Tipos numéricos
 4. Overflow
-5. Tipo string (cadeias de caracteres) : [playground](https://play.golang.org/p/cFYmiweqoP9)
-6. Sistemas numéricos : [playground](https://play.golang.org/p/smjuA0RhjUK)
+5. Tipo string (cadeias de caracteres) : [exemplo](https://play.golang.org/p/cFYmiweqoP9)
+6. Sistemas numéricos : [exemplo](https://play.golang.org/p/smjuA0RhjUK)
 7. Constantes
-8. iota : [playground](https://play.golang.org/p/YnZCFTcpvYC)
+8. iota : [exemplo](https://play.golang.org/p/YnZCFTcpvYC)
 
-9. Deslocamento de bits : [playground-1](https://play.golang.org/p/ublpoDFp-xj), [playground-2](https://play.golang.org/p/_DDJcguaJEi)
+9. Deslocamento de bits : [exemplo-1](https://play.golang.org/p/ublpoDFp-xj), [exemplo-2](https://play.golang.org/p/_DDJcguaJEi)
 
 ## Cap. 5 - Exercícios: Nível #2
 1. https://play.golang.org/p/kqQUw1QxwHZ
@@ -60,10 +60,10 @@ Ellen Korbes
 4. Loops: a declaração for
 5. Loops: break & continue
 6. Loops: utilizando ascii : [Desafio surpresa!](https://play.golang.org/p/kokHQ0sS-zE)
-7. Condicionais: a declaração if : [playground] (https://play.golang.org/p/iT-auq2JxA0)
+7. Condicionais: a declaração if : [exemplo] (https://play.golang.org/p/iT-auq2JxA0)
 8. Condicionais: if, else if, else
-9. Condicionais: a declaração switch : [playground](https://play.golang.org/p/z7cdOMgvFlI)
-10. Condicionais: a declaração switch pt. 2 & documentação : [playground](https://play.golang.org/p/1xTBQKRVb5V)
+9. Condicionais: a declaração switch : [exemplo](https://play.golang.org/p/z7cdOMgvFlI)
+10. Condicionais: a declaração switch pt. 2 & documentação : [exemplo](https://play.golang.org/p/1xTBQKRVb5V)
 11. Operadores lógicos condicionais
 
 ## Cap. 7 - Exercícios: Nível #3
@@ -79,7 +79,16 @@ Ellen Korbes
 10. https://play.golang.org/p/NFAnIHqyFPT
 
 ## Cap. 8 - Agrupamento de Dados
-1. Array
+1. Array: [exemplo](https://play.golang.org/p/xtqcT59WX-4)
+2. Slice: literal composta : [exemplo](https://play.golang.org/p/YkvSTEZ6jZe)
+3. Slice: for range : [exemplo](https://play.golang.org/p/04nOt-cRpGP)
+4. Slice: fatiando ou deletando uma fatia : [exemplo](https://play.golang.org/p/85mOjhEkqAM), [exercício](https://play.golang.org/p/dFpTLy83Jt6)
+5. Slice: anexando a uma slice : [exemplo](https://play.golang.org/p/gH6ZnLN1bKj)
+6. Slice: make : [exemplo](https://play.golang.org/p/ohv070QLgVi)
+7. Slice: slice multi-dimensional : [exemplo](https://play.golang.org/p/XJFpdui7tWX)
+8. Slice: a surpresa do array subjacente : [exemplo](https://play.golang.org/p/aYCzr2yi0Qv)
+9. Maps: introdução : [exemplo](https://play.golang.org/p/1aiI8CbCny6)
+10. Maps: range & deletando
   
 ---- 
 
