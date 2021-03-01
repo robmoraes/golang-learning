@@ -35,6 +35,12 @@ Curso ministrado por Ellen Korbes
 1. Tipo booleano
 2. Como os computadores funcionam
 3. Tipos numéricos
+4. Overflow
+5. Tipo string (cadeias de caracteres) : [exemplo](https://play.golang.org/p/cFYmiweqoP9)
+6. Sistemas numéricos : [exemplo](https://play.golang.org/p/smjuA0RhjUK)
+7. Constantes
+8. iota : [exemplo](https://play.golang.org/p/YnZCFTcpvYC)
+9. Deslocamento de bits : [exemplo-1](https://play.golang.org/p/ublpoDFp-xj), [exemplo-2](https://play.golang.org/p/_DDJcguaJEi)
 
 ## Cap. 4 - Fundamentos da Programação
 1. Tipo booleano
@@ -45,7 +51,6 @@ Curso ministrado por Ellen Korbes
 6. Sistemas numéricos : [exemplo](https://play.golang.org/p/smjuA0RhjUK)
 7. Constantes
 8. iota : [exemplo](https://play.golang.org/p/YnZCFTcpvYC)
-
 9. Deslocamento de bits : [exemplo-1](https://play.golang.org/p/ublpoDFp-xj), [exemplo-2](https://play.golang.org/p/_DDJcguaJEi)
 
 ## Cap. 5 - Exercícios: Nível #2
