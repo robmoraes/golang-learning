@@ -117,17 +117,17 @@ Curso ministrado por Ellen Korbes
 4. (5:51) https://play.golang.org/p/-p28QmhBBTI
 
 ## Cap. 12 - Funções
-1. (20:23) Sintaxe <================= C O N T I N U A =================!!!
-2. (06:08) Desenrolando (enumerando) uma slice
-3. (08:20) Defer
-4. (05:26) Métodos
-5. (21:47) Interfaces & polimorfismo
-6. (04:04) Funções anônimas
-7. (03:06) Func como expressão
-8. (05:44) Retornando uma função
-9. (04:10) Callback
-10. (04:50) Closure
-11. (14:36) Recursividade
+1. (20:23) Sintaxe : [exemplos](https://play.golang.org/p/k56G5BFgB_v)
+2. (06:08) Desenrolando (enumerando) uma slice : [exemplo](https://play.golang.org/p/RY4n2hNxrFi)
+3. (08:20) Defer: [exemplo](https://play.golang.org/p/S6pepA3JTb8)
+4. (05:26) Métodos: [exemplo](https://play.golang.org/p/pubHwGF1tLu)
+5. (21:47) Interfaces & polimorfismo: [exemplo](https://play.golang.org/p/z8S14DVhVZd), [gobyexample](https://play.golang.org/p/z8S14DVhVZd)
+6. (04:04) Funções anônimas: [exemplo](https://play.golang.org/p/8li9lEyRL-J)
+7. (03:06) Func como expressão: [exemplo](https://play.golang.org/p/gAu1CIgfVSb)
+8. (05:44) Retornando uma função: [exemplo](https://play.golang.org/p/vkA_Z82rbBL)
+9. (04:10) Callback: [exemplo](https://play.golang.org/p/4Y1lD6qJx0Y)
+10. (04:50) Closure: [exemplo](https://play.golang.org/p/x49E_Xgk7iW)
+11. (14:36) Recursividade: [exemplo](https://play.golang.org/p/OQR2vpHo_Rt)
 
 ## Cap. 13 - Exercícios: Nível #6
 [Exercícios](https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#13--exerc%C3%ADcios-ninja-n%C3%ADvel-6)
