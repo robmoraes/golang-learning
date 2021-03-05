@@ -131,26 +131,26 @@ Curso ministrado por Ellen Korbes
 
 ## Cap. 13 - Exercícios: Nível #6
 [Exercícios](https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#13--exerc%C3%ADcios-ninja-n%C3%ADvel-6)
-1. (1:45)
-2. (5:49)
-3. (1:07)
-4. (5:44)
-5. (12:31)
-6. (0:56)
-7. (1:10)
-8. (1:44)
-9. (3:01)
-10. (3:04)
-11. (3:25)
+1. (1:45) https://play.golang.org/p/k5mMNv21FUO
+2. (5:49) https://play.golang.org/p/OqN8bAVQzA8
+3. (1:07) https://play.golang.org/p/IxKB7EWj71O
+4. (5:44) https://play.golang.org/p/EFERMXfWoqQ
+5. (12:31) https://play.golang.org/p/mOiM9Fs5aTg
+6. (0:56) https://play.golang.org/p/bwE5839Ybak
+7. (1:10) https://play.golang.org/p/BxYFAAqsaAD
+8. (1:44) https://play.golang.org/p/lf002rQRQAr
+9. (3:01) (https://play.golang.org/p/mni5Bpj0EV9)
+10. (3:04) https://play.golang.org/p/1izGPOqjzQt
+11. (3:25) 
 
 ## Cap. 14 - Ponteiros
-1. O que são ponteiros? (6:23)
-2. Quando usar ponteiros (6:52)
+1. O que são ponteiros? (6:23) [exemplo](https://play.golang.org/p/p1fLZYFYiq8)
+2. Quando usar ponteiros (6:52) [exemplo](https://play.golang.org/p/gQcJY-ONJvm)
 
 ## Cap. 15 - Exercícios: Nível 7
 [Exercícios](https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#15--exerc%C3%ADcios-ninja-n%C3%ADvel-7)
-1. (1:02)
-2. (5:37)
+1. (1:02) https://play.golang.org/p/IwJYlpSF2AH
+2. (5:37) https://play.golang.org/p/7V48aK1cUrm
 
 ## Cap. 16 - Aplicações
 1. Documentação JSON (9:45)

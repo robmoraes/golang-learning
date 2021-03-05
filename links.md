@@ -12,4 +12,8 @@
 
 - [Golang Standards - Project Layout](https://github.com/golang-standards/project-layout)
 
+- [A Tour of Go](https://play.golang.org/p/lf002rQRQAr)
+
+- [OBS Project - Free and open source software for video recording an live streaming](https://obsproject.com)
+
 - Alguns links interessantes podem ser encontrados no Cap. 1 - Visão Geral - 4
